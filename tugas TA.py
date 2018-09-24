@@ -1,4 +1,4 @@
-height = input("insert height here:")
+height = input("insert height here:") #since the TA told us to input the height into 5, then we must type 5 here
 height = int(height)
 #No.1
 for i in range(1,(height + 1)):
