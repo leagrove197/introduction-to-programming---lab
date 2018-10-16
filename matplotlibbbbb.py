@@ -45,3 +45,4 @@ plot.legend()
 plot.show() # Show on one graph
 sys.exit()
 
+referensi : ajaran dari dzaky dan eris
